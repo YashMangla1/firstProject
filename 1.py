@@ -1,2 +1,4 @@
-my name is yash.
+a=10
+b=6
+print(a+b)
 
